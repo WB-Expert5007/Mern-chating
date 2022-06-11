@@ -81,7 +81,7 @@ https://textalot.herokuapp.com/
 
 ### Clone the repository:
 ```
-git clone https://github.com/SiddharthSsb11/MERN-chat-app.git
+git clone https://github.com/shinobi8894/MERN-chat-app.git
 ```
 
 ### Env Variables
